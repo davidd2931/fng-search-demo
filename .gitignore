@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+demo_data/usage/*
+demo_data/feedback/*
+selfcheck.txt
